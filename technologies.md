@@ -8,3 +8,4 @@
 - Firebase - great for realtime db (views update live with db change)
 - AWS Lambda
 - AWS Deeplens
+- Google AIY kits
